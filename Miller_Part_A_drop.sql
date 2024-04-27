@@ -1,0 +1,11 @@
+drop table CUSTOMER;
+drop table RENTAL;
+drop table DVD;
+drop table VIDEO;
+drop table VIDEO_REPORT;
+drop table CUSTOMER_MONTH_REPORT;
+drop table DISTRIBUTOR;
+drop table MOVIE;
+drop table CATALOGUE;
+drop table ACTOR_ACTRESS;
+drop table AWARD;
